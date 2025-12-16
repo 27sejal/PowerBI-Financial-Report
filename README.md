@@ -1,1 +1,1 @@
-![Financial Dashboard Preview](Financial_Report_Dashboard.png)
+![Financial Dashboard Preview](financial dashboard.png)
